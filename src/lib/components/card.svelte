@@ -5,7 +5,7 @@
     export let answer = "(no answer provided)";
 </script>
 
-<div class="border-slate-900 border-solid border m-2 max-w-xs rounded-xl shadow-xl">
+<div class="border-slate-900 border-solid border m-2 max-w-xs rounded-xl shadow-xl hover:backdrop-sepia ">
     <div class="m-2 uppercase">{question}</div>
     <div class="m-2">{answer}</div>
 </div>
