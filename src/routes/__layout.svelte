@@ -3,8 +3,6 @@
 	import '../app.css';
 </script>
 
-
-
 <div class="m-2">
 
 <nav>

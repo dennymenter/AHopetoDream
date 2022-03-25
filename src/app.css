@@ -25,6 +25,7 @@
 	--column-margin-top: 4rem; */
 }
 
+
 body {
 	min-height: 100vh;
 	margin: 0;
@@ -114,3 +115,4 @@ button:focus:not(:focus-visible) {
 		font-size: 2.4rem;
 	}
 }
+
